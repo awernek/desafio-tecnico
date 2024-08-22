@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\awern\\OneDrive\\Documentos\\Desafio\\Questao2\\Questao2.csproj": {}
+    "C:\\Users\\awern\\source\\repos\\desafio-tecnico\\Questao2\\Questao2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\awern\\OneDrive\\Documentos\\Desafio\\Questao2\\Questao2.csproj": {
+    "C:\\Users\\awern\\source\\repos\\desafio-tecnico\\Questao2\\Questao2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\awern\\OneDrive\\Documentos\\Desafio\\Questao2\\Questao2.csproj",
+        "projectUniqueName": "C:\\Users\\awern\\source\\repos\\desafio-tecnico\\Questao2\\Questao2.csproj",
         "projectName": "Questao2",
-        "projectPath": "C:\\Users\\awern\\OneDrive\\Documentos\\Desafio\\Questao2\\Questao2.csproj",
+        "projectPath": "C:\\Users\\awern\\source\\repos\\desafio-tecnico\\Questao2\\Questao2.csproj",
         "packagesPath": "C:\\Users\\awern\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\awern\\OneDrive\\Documentos\\Desafio\\Questao2\\obj\\",
+        "outputPath": "C:\\Users\\awern\\source\\repos\\desafio-tecnico\\Questao2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -6807,11 +6807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\awern\\OneDrive\\Documentos\\Desafio\\Questao5\\Questao5.csproj",
+      "projectUniqueName": "C:\\Users\\awern\\source\\repos\\desafio-tecnico\\Questao5\\Questao5.csproj",
       "projectName": "Questao5",
-      "projectPath": "C:\\Users\\awern\\OneDrive\\Documentos\\Desafio\\Questao5\\Questao5.csproj",
+      "projectPath": "C:\\Users\\awern\\source\\repos\\desafio-tecnico\\Questao5\\Questao5.csproj",
       "packagesPath": "C:\\Users\\awern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\awern\\OneDrive\\Documentos\\Desafio\\Questao5\\obj\\",
+      "outputPath": "C:\\Users\\awern\\source\\repos\\desafio-tecnico\\Questao5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
